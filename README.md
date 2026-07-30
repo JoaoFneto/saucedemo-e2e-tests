@@ -1,9 +1,8 @@
-https://img.shields.io/badge/Playwright-Latest-2EAD33?style=for-the-badge&logo=playwright
-https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
-https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white
-https://img.shields.io/badge/Dotenv-Environment%20Variables-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black
-https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white
-https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white
+[![Playwright](https://img.shields.io/badge/Playwright-Latest-2EAD33?style=for-the-badge&logo=playwright)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+[![Dotenv]https://img.shields.io/badge/Dotenv-Environment%20Variables-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black
+[![Git]https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white
 
 SauceDemo Playwright Automation
 Projeto de automação de testes End-to-End (E2E) utilizando Playwright para validação dos principais fluxos da aplicação SauceDemo.
