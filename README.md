@@ -34,10 +34,14 @@ Git
 GitHub
 Estrutura do Projeto
 saucedemo-playwright-automation/
-│
+│ 
+
 ├── tests/
-│   ├── login.spec.js
-│   └── cart.spec.js
+
+│   
+├── login.spec.js
+│  
+└── cart.spec.js
 │
 ├── pages/
 │
