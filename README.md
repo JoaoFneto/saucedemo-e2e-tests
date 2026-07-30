@@ -25,7 +25,8 @@ Demonstrar conhecimento em automação de testes web.
 Aplicar boas práticas de organização e manutenção de testes.
 Validar cenários positivos e negativos.
 Construir um projeto de portfólio para Quality Assurance.
-Tecnologias Utilizadas
+
+**Tecnologias Utilizadas**
 Playwright
 JavaScript
 Node.js
@@ -34,29 +35,12 @@ Git
 GitHub
 Estrutura do Projeto
 saucedemo-playwright-automation/
-│ 
 
-├── tests/
-│   
-├── login.spec.js
-│  
-└── cart.spec.js
-│
-├── pages/
-│
-├── utils/
-│
-├── .env
-├── .env.example
-├── .gitignore
-├── package.json
-├── playwright.config.js
-└── README.md
-Cobertura de Testes
+**Cobertura de Testes**
 Suite 1 - Tela de Login
 Validação dos fluxos de autenticação do usuário.
 
-Cenários Automatizados
+**Cenários Automatizados**
 Usuário realizando Login
 Login com Sucesso
 Login com Usuário Locked
@@ -65,11 +49,11 @@ Login com Senha Incorreta
 Suite 2 - Tela de Produto e Carrinho
 Validação do fluxo de compra da aplicação.
 
-Cenários Automatizados
+**Cenários Automatizados**
 Adicionando produto ao carrinho
 Finalizando compra com sucesso
 
-Configuração do Ambiente
+**Configuração do Ambiente**
 Clonar o Repositório
 git clone https://github.com/JoaoFneto/saucedemo-e2e-tests.git
 
