@@ -37,7 +37,6 @@ saucedemo-playwright-automation/
 │ 
 
 ├── tests/
-
 │   
 ├── login.spec.js
 │  
