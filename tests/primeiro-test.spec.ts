@@ -36,11 +36,8 @@ test.describe('Tela de Login', async () => {
         await page.getByTestId('login-button').click();
         const textoErro = page.getByTestId('error');
         await expect(textoErro).toHaveText('Epic sadface: Username and password do not match any user in this service');
-
     })
 })
-
-
 test.describe('Tela de produto e Carrinho', async () => {
     test('Adicionando o produto ao carrinho e finalizando a compra', async ({ page }) => {
         await page.getByTestId('username').fill(process.env.LOGIN_USERNAME!);
