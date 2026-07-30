@@ -41,7 +41,6 @@ saucedemo-playwright-automation/
 ├── login.spec.js
 │  
 └── cart.spec.js
-
 │
 ├── pages/
 │
