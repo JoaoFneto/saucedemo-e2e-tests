@@ -1,7 +1,7 @@
 {
   "name": "curso-basico-playwright-pub",
   "version": "1.0.0",
-  "description": "Projeto base e aulas para o curso básico de Playwright de Marcos Franco",
+  "description": "Projeto Autoral de João freire",
   "main": "index.js",
   "scripts": {
     "testd": "playwright test --debug"
@@ -10,12 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/marcosvfranco/curso-basico-playwright-pub.git"
   },
-  "author": "Marcos Franco",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/marcosvfranco/curso-basico-playwright-pub/issues"
-  },
-  "homepage": "https://github.com/marcosvfranco/curso-basico-playwright-pub#readme",
   "devDependencies": {
     "@playwright/test": "^1.38.1",
     "@types/node": "^18.18.1",
