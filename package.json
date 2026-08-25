@@ -4,6 +4,7 @@
   "description": "Projeto Autoral de João freire",
   "main": "index.js",
   "scripts": {
+    "test": "playwright test",
     "testd": "playwright test --debug"
   },
   "repository": {
