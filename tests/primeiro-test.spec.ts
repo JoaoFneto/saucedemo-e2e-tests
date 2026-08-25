@@ -19,8 +19,6 @@ test.describe('Tela de Login', async () => {
         await page.getByTestId('login-button').click();
         await expect(page).toHaveURL('https://www.saucedemo.com/inventory.html')
         await expect(page.getByTestId('inventory-item-name').filter({ hasText: /^Sauce Labs Backpack$/ })).toBeVisible();
-        // const itemLink = page.getByTestId('item-4-title-link');
-        // await expect(itemLink).toBeVisible();
     })
     test('Login com Usuario Locked', async ({ page }) => {
         await page.getByTestId('username').fill(process.env.TRAVADO!);

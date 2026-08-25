@@ -4,7 +4,7 @@
   "description": "Projeto base e aulas para o curso básico de Playwright de Marcos Franco",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "testd": "playwright test --debug"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   "devDependencies": {
     "@playwright/test": "^1.38.1",
     "@types/node": "^18.18.1",
-    "dotenv": "^17.4.2"
+    "dotenv": "^17.4.2",
+    "typescript": "^7.0.2"
   }
 }
